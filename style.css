@@ -42,5 +42,5 @@ nav a{
 img{
    position: fixed;
 }
-@media(max-width:600px){
+@nav(max-width:600px){
 }
