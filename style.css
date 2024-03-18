@@ -1,0 +1,44 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image:url(plantbasedmilk.123rf-1618x1080.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 90vh;
+}
+
+header{
+    color: rgb(105, 87, 67);
+    text-decoration: none;
+    padding: 5px;
+    text-align: center;
+    font-size:large;
+    
+}
+h1{
+    color: rgb(27, 8, 8);
+}
+nav{
+    background-color: rgb(146, 133, 118);
+    color: black;
+    padding: 10px;;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+nav a{
+    color: rgb(79, 66, 51);
+    text-decoration: none;
+    padding: 50px;
+    text-align: center;
+}
+
+    
+
+#home-page{
+    display: block;
+}
+img{
+   position: fixed;
+}
